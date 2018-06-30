@@ -1,0 +1,19 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "React with webpack project boilerplate. Will add backend later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruemor33/react-webpack.git"
+  },
+  "author": "Andrew Rymer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bruemor33/react-webpack/issues"
+  },
+  "homepage": "https://github.com/Bruemor33/react-webpack#readme"
+}
